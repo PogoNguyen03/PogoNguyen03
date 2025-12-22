@@ -45,13 +45,32 @@ Hey there! I'm **Phong** - a passionate Full Stack Developer from **Vietnam** �
 
 ### 🎯 Impact Delivered
 
-| Metric | Achievement |
-|--------|-------------|
-| 📈 **Traffic** | 1M+ visits/year |
-| 🌐 **Domains** | 1,000+ maintained |
-| 🚀 **Uptime** | 99.9% reliability |
-| ⏱️ **Efficiency** | 40% time saved |
-| 🔄 **Accuracy** | Zero errors |
+<table width="100%">
+<tr>
+<th>Metric</th>
+<th>Achievement</th>
+</tr>
+<tr>
+<td>📈 <strong>Traffic</strong></td>
+<td>1M+ visits/year</td>
+</tr>
+<tr>
+<td>🌐 <strong>Domains</strong></td>
+<td>1,000+ maintained</td>
+</tr>
+<tr>
+<td>🚀 <strong>Uptime</strong></td>
+<td>99.9% reliability</td>
+</tr>
+<tr>
+<td>⏱️ <strong>Efficiency</strong></td>
+<td>40% time saved</td>
+</tr>
+<tr>
+<td>🔄 <strong>Accuracy</strong></td>
+<td>Zero errors</td>
+</tr>
+</table>
 
 </td>
 </tr>
