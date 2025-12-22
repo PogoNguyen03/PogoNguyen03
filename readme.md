@@ -223,7 +223,7 @@ Ho Chi Minh City, Vietnam 🇻🇳
 ---
 
 ## 💼 Professional Journey
-
+<div align="center">
 <table>
 <tr>
 <td width="50%" valign="top">
@@ -262,7 +262,7 @@ Ho Chi Minh City, Vietnam 🇻🇳
 </td>
 </tr>
 </table>
-
+</div>
 ---
 
 ## 🌟 Featured Projects
