@@ -17,31 +17,77 @@
 
 ## 🎯 About Me
 
-```typescript
-const phong = {
-    location: "Ho Chi Minh City, Vietnam 🇻🇳",
-    education: "HUFLIT University - Software Engineering",
-    currentRole: "Full Stack Developer @ THIEN CO TRI LIEN",
-    experience: "1+ years in international environments",
-    specialization: ["Web Development", "System Architecture", "Business Analysis"],
-    
-    achievements: {
-        traffic: "1M+ visits/year managed",
-        domains: "1,000+ domains maintained",
-        uptime: "99.9% server reliability",
-        efficiency: "40% reduction in manual processing"
-    },
-    
-    currentlyLearning: ["Advanced System Design", "Cloud Architecture", "AI Integration"],
-    openToWork: true,
-    
-    motto: "Building scalable solutions that make a difference 🚀"
-};
+<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
+
+### 👨‍💻 Who Am I?
+
+Hey there! I'm **Phong** - a passionate Full Stack Developer from **Vietnam** 🇻🇳 who loves turning complex problems into elegant solutions.
+
+🎓 Currently pursuing **Software Engineering** at HUFLIT University (GPA: 3.27/4.0)
+
+💼 Working as a **Full Stack Developer** @ THIEN CO TRI LIEN CO., LTD
+
+🌱 **1+ years** of hands-on experience in international environments
+
+---
+
+### 🚀 What Drives Me
+
+<table>
+<tr>
+<td width="50%">
+
+#### 💡 My Expertise
+- 🎨 Building **scalable web applications**
+- 📊 **Business Analysis** & requirement translation
+- ⚡ **Performance optimization** for high-traffic systems
+- 🤖 **Automation** to boost productivity
+- 🛠️ **System architecture** design
+
+</td>
+<td width="50%">
+
+#### 🎯 Impact Delivered
+- 📈 **1M+** annual visits managed
+- 🌐 **1,000+** domains maintained
+- 🚀 **99.9%** system uptime
+- ⏱️ **40%** time reduction via automation
+- 🔄 **Zero** manual entry errors
+
+</td>
+</tr>
+</table>
+
+---
+
+### 🔥 Current Mission
+
+```javascript
+class PhongNguyen extends Developer {
+  constructor() {
+    super();
+    this.name = "Nguyen Canh Phong";
+    this.location = "Ho Chi Minh City, Vietnam";
+    this.workingOn = "Scalable web solutions & system optimization";
+    this.learning = ["Advanced System Design", "Cloud Architecture", "AI/ML Integration"];
+    this.interests = ["Clean Code", "Performance Tuning", "Problem Solving"];
+  }
+
+  sayHi() {
+    console.log("Thanks for visiting! Let's build something amazing together! 🚀");
+  }
+}
+
+const phong = new PhongNguyen();
+phong.sayHi();
 ```
 
 <div align="center">
 
 ### 💼 **Results-Oriented Developer** | 🎓 **Strong BA Foundation** | ⚡ **Performance Optimizer**
+
+[![](https://img.shields.io/badge/Available_for-Opportunities-success?style=for-the-badge&logo=handshake&logoColor=white)](mailto:nguyencanhphong246@gmail.com)
+[![](https://img.shields.io/badge/Open_to-Collaboration-blue?style=for-the-badge&logo=github&logoColor=white)](https://github.com/pogonguyen03)
 
 </div>
 
