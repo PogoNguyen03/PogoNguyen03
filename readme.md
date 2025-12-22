@@ -8,11 +8,8 @@
   <a href="https://portfolio-canh-phong.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white" /></a>
   <a href="mailto:nguyencanhphong246@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
   <a href="https://github.com/pogonguyen03"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" /></a>
+  <img src="https://komarev.com/ghpvc/?username=pogonguyen03&label=Profile%20Views&color=blueviolet&style=for-the-badge" alt="Profile Views" />
 </p>
-
-<img src="https://komarev.com/ghpvc/?username=pogonguyen03&label=Profile%20Views&color=blueviolet&style=for-the-badge" alt="Profile Views" />
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=150&section=header&text=&fontSize=0" width="100%" />
 
 </div>
 
@@ -22,40 +19,39 @@
 
 <table>
 <tr>
-<td width="55%" valign="top">
+<td width="60%" valign="top">
 
 ### 👨‍💻 Who Am I?
 
 Hey there! I'm **Phong** - a passionate Full Stack Developer from **Vietnam** 🇻🇳 who loves turning complex problems into elegant solutions.
 
-🎓 Currently pursuing **Software Engineering** at HUFLIT University (GPA: 3.27/4.0)
+- 🎓 Currently pursuing **Software Engineering** at HUFLIT University (GPA: 3.27/4.0)
+- 💼 Working as a **Full Stack Developer** @ THIEN CO TRI LIEN CO., LTD
+- 🌱 **1+ years** of hands-on experience in international environments
+- 🌍 Based in **Ho Chi Minh City, Vietnam**
 
-💼 Working as a **Full Stack Developer** @ THIEN CO TRI LIEN CO., LTD
+### 💡 My Expertise
 
-🌱 **1+ years** of hands-on experience in international environments
-
-### 🚀 What Drives Me
-
-- 🎨 Building **scalable web applications**
-- 📊 **Business Analysis** & requirement translation
+- 🎨 Building **scalable web applications** with modern tech stacks
+- 📊 **Business Analysis** & translating requirements into technical solutions
 - ⚡ **Performance optimization** for high-traffic systems
-- 🤖 **Automation** to boost productivity
-- 🛠️ **System architecture** design
+- 🤖 Creating **automation tools** to boost team productivity
+- 🛠️ Designing robust **system architectures**
 
 </td>
-<td width="45%" align="center">
+<td width="40%" valign="top">
 
-<img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="100%" />
+<img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="100%" alt="Coding Animation" />
 
 ### 🎯 Impact Delivered
 
-| Metric | Value |
-|:---:|:---:|
-| 📈 **Annual Visits** | 1M+ |
-| 🌐 **Domains Managed** | 1,000+ |
-| 🚀 **System Uptime** | 99.9% |
-| ⏱️ **Time Saved** | 40% |
-| 🔄 **Error Rate** | 0% |
+| Metric | Achievement |
+|--------|-------------|
+| 📈 **Traffic** | 1M+ visits/year |
+| 🌐 **Domains** | 1,000+ maintained |
+| 🚀 **Uptime** | 99.9% reliability |
+| ⏱️ **Efficiency** | 40% time saved |
+| 🔄 **Accuracy** | Zero errors |
 
 </td>
 </tr>
@@ -63,35 +59,50 @@ Hey there! I'm **Phong** - a passionate Full Stack Developer from **Vietnam** �
 
 ---
 
+## 🔥 Current Mission
+
 <div align="center">
 
-### 🔥 Current Mission
+### 🚀 **Building Tomorrow's Web Today**
 
-```javascript
-class PhongNguyen extends Developer {
-  constructor() {
-    super();
-    this.name = "Nguyen Canh Phong";
-    this.location = "Ho Chi Minh City, Vietnam";
-    this.workingOn = "Scalable web solutions & system optimization";
-    this.learning = ["Advanced System Design", "Cloud Architecture", "AI/ML Integration"];
-    this.interests = ["Clean Code", "Performance Tuning", "Problem Solving"];
-  }
+</div>
 
-  sayHi() {
-    console.log("Thanks for visiting! Let's build something amazing together! 🚀");
-  }
-}
+<table>
+<tr>
+<td width="25%" align="center">
+<img src="https://img.icons8.com/fluency/96/000000/code.png" width="64"/>
 
-const phong = new PhongNguyen();
-phong.sayHi();
-```
+**What I'm Building**
 
-<br>
+Scalable web solutions & system optimization
+</td>
+<td width="25%" align="center">
+<img src="https://img.icons8.com/fluency/96/000000/learning.png" width="64"/>
+
+**What I'm Learning**
+
+Advanced System Design, Cloud Architecture, AI/ML Integration
+</td>
+<td width="25%" align="center">
+<img src="https://img.icons8.com/fluency/96/000000/heart-with-pulse.png" width="64"/>
+
+**What I Love**
+
+Clean Code, Performance Tuning, Problem Solving
+</td>
+<td width="25%" align="center">
+<img src="https://img.icons8.com/fluency/96/000000/user-location.png" width="64"/>
+
+**Where I Am**
+
+Ho Chi Minh City, Vietnam 🇻🇳
+</td>
+</tr>
+</table>
+
+<div align="center">
 
 ### 💼 **Results-Oriented Developer** | 🎓 **Strong BA Foundation** | ⚡ **Performance Optimizer**
-
-<br>
 
 [![](https://img.shields.io/badge/Available_for-Opportunities-success?style=for-the-badge&logo=handshake&logoColor=white)](mailto:nguyencanhphong246@gmail.com)
 [![](https://img.shields.io/badge/Open_to-Collaboration-blue?style=for-the-badge&logo=github&logoColor=white)](https://github.com/pogonguyen03)
@@ -104,41 +115,53 @@ phong.sayHi();
 
 <div align="center">
 
-### 🔥 Languages & Frameworks
+### Languages & Core Technologies
 
-**Backend Powerhouse**
+<table>
+<tr>
+<td align="center" width="20%">
+<img src="https://img.icons8.com/color/96/000000/java-coffee-cup-logo.png" width="48"/>
+<br><strong>Java</strong>
+</td>
+<td align="center" width="20%">
+<img src="https://img.icons8.com/color/96/000000/c-sharp-logo.png" width="48"/>
+<br><strong>C#</strong>
+</td>
+<td align="center" width="20%">
+<img src="https://img.icons8.com/officel/96/000000/php-logo.png" width="48"/>
+<br><strong>PHP</strong>
+</td>
+<td align="center" width="20%">
+<img src="https://img.icons8.com/color/96/000000/python.png" width="48"/>
+<br><strong>Python</strong>
+</td>
+<td align="center" width="20%">
+<img src="https://img.icons8.com/color/96/000000/javascript.png" width="48"/>
+<br><strong>JavaScript</strong>
+</td>
+</tr>
+</table>
 
-<p>
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
-  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" />
-  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" />
-</p>
-
-**Frontend Excellence**
+### Frontend Excellence
 
 <p>
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
   <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
   <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
   <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
 </p>
 
-**Mobile Development**
+### Backend & Frameworks
 
 <p>
-  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" />
-  <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" />
-  <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" />
+  <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" />
+  <img src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white" />
 </p>
 
-<br>
-
-### 🗄️ Databases & Infrastructure
+### Databases
 
 <p>
   <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" />
@@ -149,21 +172,24 @@ phong.sayHi();
   <img src="https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white" />
 </p>
 
-<br>
+### Mobile Development
 
-### 🎨 Design & BA Tools
+<p>
+  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" />
+  <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" />
+  <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" />
+</p>
+
+### Design & BA Tools
 
 <p>
   <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
   <img src="https://img.shields.io/badge/Adobe_Photoshop-31A8FF?style=for-the-badge&logo=adobe-photoshop&logoColor=white" />
   <img src="https://img.shields.io/badge/Adobe_Illustrator-FF9A00?style=for-the-badge&logo=adobe-illustrator&logoColor=white" />
   <img src="https://img.shields.io/badge/Balsamiq-A60000?style=for-the-badge&logo=balsamiq&logoColor=white" />
-  <img src="https://img.shields.io/badge/StarUML-05122A?style=for-the-badge&logo=uml&logoColor=white" />
 </p>
 
-<br>
-
-### ⚙️ Tools & Platforms
+### Development Tools
 
 <p>
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
@@ -179,31 +205,44 @@ phong.sayHi();
 
 ## 💼 Professional Journey
 
-<div align="center">
+<table>
+<tr>
+<td width="50%" valign="top">
 
 ### 🚀 THIEN CO TRI LIEN CO., LTD
-**Full Stack Developer** • *Dec 2024 - Present*
 
-```
-✅ Managed 1,000+ domains with 1M+ annual visits
-✅ Built Python/PHP automation (40% time reduction)
-✅ Maintained 99.9% uptime for high-traffic systems
-✅ Optimized WordPress for streaming/novel platforms
-```
+**Full Stack Developer** · *Dec 2024 - Present*
 
-<br>
+#### Key Achievements:
+- ✅ Managed **1,000+ domains** with **1M+ annual visits**
+- ⚡ Built Python/PHP automation (**40% time reduction**)
+- 🎯 Maintained **99.9% uptime** for high-traffic systems
+- 🔧 Optimized WordPress for streaming/novel platforms
+- 🤖 Eliminated manual entry errors through automation
+
+#### Technologies:
+`Python` `PHP` `WordPress` `MySQL` `Automation`
+
+</td>
+<td width="50%" valign="top">
 
 ### 💻 BIT GROUP INVESTMENT JSC
-**Web Developer** • *Aug 2024 - Nov 2024*
 
-```
-✅ Designed & developed corporate websites
-✅ Created custom WordPress themes
-✅ Enhanced UI/UX and performance optimization
-✅ Delivered 100% on-time project completion
-```
+**Web Developer** · *Aug 2024 - Nov 2024*
 
-</div>
+#### Key Achievements:
+- 🎨 Designed & developed corporate websites
+- 🔨 Created custom WordPress themes from scratch
+- ⚡ Enhanced UI/UX and performance optimization
+- ✅ Delivered **100%** on-time project completion
+- 📈 Improved site loading speed by 35%
+
+#### Technologies:
+`WordPress` `PHP` `JavaScript` `CSS3` `MySQL`
+
+</td>
+</tr>
+</table>
 
 ---
 
@@ -213,40 +252,56 @@ phong.sayHi();
 
 <table>
 <tr>
-<td width="50%">
+<td width="50%" valign="top">
 
-<h3>💍 Digital Wedding Invitation</h3>
+### 💍 Digital Wedding Invitation Platform
 
-<img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" />
-<img src="https://img.shields.io/badge/Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white" />
-<img src="https://img.shields.io/badge/WebSocket-010101?style=flat-square&logo=socketdotio&logoColor=white" />
+<img src="https://img.icons8.com/fluency/96/000000/wedding-rings.png" width="64" />
 
-**Key Features:**
-- 🎯 Personalized invitations with unique guest links
-- 📊 Real-time RSVP dashboard
-- ⚡ Automated QR code generation
-- 📱 Mobile-responsive design
+**Full Stack Developer & System Architect**
 
-<a href="https://wedding-demo.vercel.app">
-  <img src="https://img.shields.io/badge/🔗_View_Demo-Live_Site-success?style=for-the-badge" />
-</a>
+#### 🎯 Features:
+- Personalized wedding invitations with unique guest links
+- Automated QR code generation for easy access
+- Real-time RSVP dashboard using WebSockets
+- Instant host notifications for guest responses
+- Efficient event management with scalable architecture
+
+#### 🛠️ Tech Stack:
+<p>
+  <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white" />
+  <img src="https://img.shields.io/badge/WebSocket-010101?style=flat-square&logo=socketdotio&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
+</p>
+
+[🔗 View Live Demo](https://wedding-demo.vercel.app)
 
 </td>
-<td width="50%">
+<td width="50%" valign="top">
 
-<h3>🎮 2D RPG Game Engine</h3>
+### 🎮 2D RPG Game Engine
 
-<img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" />
-<img src="https://img.shields.io/badge/OOP-239120?style=flat-square&logo=java&logoColor=white" />
-<img src="https://img.shields.io/badge/NetBeans-1B6AC6?style=flat-square&logo=apache-netbeans-ide&logoColor=white" />
+<img src="https://img.icons8.com/fluency/96/000000/controller.png" width="64" />
 
-**Key Features:**
-- 🛠️ Custom-built game engine
-- ⚡ Optimized collision detection
-- 🎨 Advanced character state management
-- 🎯 Object-oriented architecture
+**Game Developer**
 
-<img src="https://img.shields.io/badge/Status-Completed-brightgreen?style=for-the-badge" />
+#### 🎯 Features:
+- Custom game engine built from scratch
+- Advanced OOP design patterns
+- Optimized collision detection system
+- Lag-free gameplay performance
+- Complex character state management
+- Modular architecture for easy expansion
+
+#### 🛠️ Tech Stack:
+<p>
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" />
+  <img src="https://img.shields.io/badge/OOP-239120?style=flat-square&logo=java&logoColor=white" />
+  <img src="https://img.shields.io/badge/NetBeans-1B6AC6?style=flat-square&logo=apache-netbeans-ide&logoColor=white" />
+</p>
+
+🎨 **Game Design Patterns Applied**
 
 </td>
 </tr>
@@ -263,7 +318,7 @@ phong.sayHi();
 <table>
 <tr>
 <td width="50%">
-  
+
 <img src="https://github-readme-stats.vercel.app/api?username=pogonguyen03&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117" width="100%" />
 
 </td>
@@ -275,28 +330,60 @@ phong.sayHi();
 </tr>
 </table>
 
-<img src="https://streak-stats.demolab.com/?user=pogonguyen03&theme=tokyonight&hide_border=true&background=0D1117" width="100%" />
+<img src="https://streak-stats.demolab.com/?user=pogonguyen03&theme=tokyonight&hide_border=true&background=0D1117" width="100%" alt="GitHub Streak" />
 
-<br><br>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=pogonguyen03&theme=tokyo-night&hide_border=true&bg_color=0D1117" width="100%" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=pogonguyen03&theme=tokyo-night&hide_border=true&bg_color=0D1117" width="100%" alt="Contribution Graph" />
 
 </div>
 
 ---
 
-## 🏆 Achievements & Metrics
+## 🏆 Achievements & Impact
 
 <div align="center">
 
-| 🎯 Metric | 📈 Achievement | 💡 Description |
-|:---:|:---:|:---|
-| **Traffic Managed** | 1M+ visits/year | High-traffic system management |
-| **Domains Maintained** | 1,000+ domains | Multi-domain infrastructure |
-| **System Uptime** | 99.9% | Reliability & stability focus |
-| **Efficiency Gain** | 40% | Automation & optimization |
-| **Experience** | 1+ years | Professional development |
-| **GPA** | 3.27/4.0 | Academic excellence |
+<table>
+<tr>
+<td align="center" width="33%">
+<img src="https://img.icons8.com/fluency/96/000000/traffic.png" width="64" />
+
+### 📈 1M+
+**Annual Traffic Managed**
+</td>
+<td align="center" width="33%">
+<img src="https://img.icons8.com/fluency/96/000000/domain.png" width="64" />
+
+### 🌐 1,000+
+**Domains Maintained**
+</td>
+<td align="center" width="33%">
+<img src="https://img.icons8.com/fluency/96/000000/server.png" width="64" />
+
+### 🚀 99.9%
+**System Uptime**
+</td>
+</tr>
+<tr>
+<td align="center" width="33%">
+<img src="https://img.icons8.com/fluency/96/000000/speedometer.png" width="64" />
+
+### ⏱️ 40%
+**Time Reduction via Automation**
+</td>
+<td align="center" width="33%">
+<img src="https://img.icons8.com/fluency/96/000000/work.png" width="64" />
+
+### 💼 1+
+**Years of Experience**
+</td>
+<td align="center" width="33%">
+<img src="https://img.icons8.com/fluency/96/000000/graduation-cap.png" width="64" />
+
+### 🎓 3.27/4.0
+**University GPA**
+</td>
+</tr>
+</table>
 
 </div>
 
@@ -306,58 +393,24 @@ phong.sayHi();
 
 <div align="center">
 
-### 🏛️ HUFLIT University (2021 - 2025)
-**Bachelor of Software Engineering** • GPA: 3.27/4.0
-
-<br>
-
-### 🌐 English Proficiency
-**TOEIC Score: 570**
-
-</div>
-
----
-
-## 💡 What I Bring to the Table
-
-<div align="center">
-
 <table>
 <tr>
-<td width="25%" align="center">
+<td align="center" width="50%">
+<img src="https://img.icons8.com/fluency/96/000000/university.png" width="80" />
 
-### 🚀 Full Stack
-React & Next.js<br>
-Node.js & .NET<br>
-Database Design<br>
-API Development
+### 🏛️ HUFLIT University
+**Bachelor of Software Engineering**
 
-</td>
-<td width="25%" align="center">
-
-### 📊 Business Analysis
-Requirements Gathering<br>
-System Design<br>
-Stakeholder Management<br>
-Documentation
+📅 2021 - 2025 | 📊 GPA: 3.27/4.0
 
 </td>
-<td width="25%" align="center">
+<td align="center" width="50%">
+<img src="https://img.icons8.com/fluency/96/000000/language.png" width="80" />
 
-### ⚡ Performance
-SEO Strategies<br>
-Server Management<br>
-Code Efficiency<br>
-Automation Scripts
+### 🌐 English Proficiency
+**TOEIC Certification**
 
-</td>
-<td width="25%" align="center">
-
-### 🤝 Soft Skills
-Problem Solving<br>
-Team Collaboration<br>
-Adaptability<br>
-Communication
+🎯 Score: 570
 
 </td>
 </tr>
@@ -367,17 +420,38 @@ Communication
 
 ---
 
-## 🔥 Current Focus
+## 💡 Core Competencies
 
 <div align="center">
 
-🚀 Building scalable web applications with modern tech stacks
+<table>
+<tr>
+<td width="25%" align="center">
+<img src="https://img.icons8.com/fluency/96/000000/web.png" width="64" />
 
-🎯 Optimizing high-traffic systems for maximum performance
+### Full Stack Development
+React, Next.js, Node.js, .NET, Database Design, API Development
+</td>
+<td width="25%" align="center">
+<img src="https://img.icons8.com/fluency/96/000000/business.png" width="64" />
 
-📚 Learning advanced cloud architecture & AI integration
+### Business Analysis
+Requirements Gathering, System Design, Stakeholder Management
+</td>
+<td width="25%" align="center">
+<img src="https://img.icons8.com/fluency/96/000000/rocket.png" width="64" />
 
-💼 Open to exciting opportunities and collaborations
+### Performance Optimization
+SEO Strategies, Server Management, Code Efficiency, Automation
+</td>
+<td width="25%" align="center">
+<img src="https://img.icons8.com/fluency/96/000000/collaboration.png" width="64" />
+
+### Soft Skills
+Problem Solving, Team Collaboration, Adaptability, Communication
+</td>
+</tr>
+</table>
 
 </div>
 
@@ -387,33 +461,41 @@ Communication
 
 <div align="center">
 
-<a href="https://portfolio-canh-phong.vercel.app/">
-  <img src="https://img.shields.io/badge/🌐_Portfolio-Visit_My_Work-FF5722?style=for-the-badge" />
-</a>
-<a href="mailto:nguyencanhphong246@gmail.com">
-  <img src="https://img.shields.io/badge/📧_Email-Let's_Talk-D14836?style=for-the-badge" />
-</a>
-<a href="https://github.com/pogonguyen03">
-  <img src="https://img.shields.io/badge/💻_GitHub-Follow_Me-100000?style=for-the-badge" />
-</a>
+<table>
+<tr>
+<td align="center" width="33%">
+<img src="https://img.icons8.com/fluency/96/000000/portfolio.png" width="64" />
 
-<br><br>
+### 🌐 Portfolio
+[Visit My Work](https://portfolio-canh-phong.vercel.app/)
+</td>
+<td align="center" width="33%">
+<img src="https://img.icons8.com/fluency/96/000000/email.png" width="64" />
 
-📍 **Location:** District 7, Ho Chi Minh City, Vietnam
-<br>
+### 📧 Email
+[nguyencanhphong246@gmail.com](mailto:nguyencanhphong246@gmail.com)
+</td>
+<td align="center" width="33%">
+<img src="https://img.icons8.com/fluency/96/000000/github.png" width="64" />
+
+### 💻 GitHub
+[Follow Me](https://github.com/pogonguyen03)
+</td>
+</tr>
+</table>
+
+---
+
+📍 **Location:** District 7, Ho Chi Minh City, Vietnam  
 📱 **Phone:** +84 774 651 178
-
-<br><br>
 
 ---
 
 ### 💭 *"Code is like humor. When you have to explain it, it's bad."* – Cory House
 
-<br>
+---
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer" width="100%" />
-
-<br>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" width="100%" />
 
 ⭐️ **If you find my work interesting, consider giving a star!** ⭐️
 
