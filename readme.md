@@ -41,7 +41,7 @@ Hey there! I'm **Phong** - a passionate Full Stack Developer from **Vietnam** ğŸ
 </td>
 <td width="40%" valign="top">
 
-<img src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" width="100%" alt="Coding Animation" />
+<img src="https://cdna.artstation.com/p/assets/images/images/028/102/058/original/pixel-jeff-matrix-s.gif" width="100%" alt="Coding Animation" />
 
 ### ğŸ¯ Impact Delivered
 
