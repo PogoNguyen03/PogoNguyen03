@@ -5,7 +5,7 @@
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=A855F7&center=true&vCenter=true&width=940&lines=Hi%2C+I'm+Nguyen+Canh+Phong+%F0%9F%91%8B;Full+Stack+Developer+%F0%9F%9A%80;Business+Analyst+%F0%9F%92%BC;Building+Scalable+Solutions+%F0%9F%8C%9F" alt="Typing SVG" />
 
 <p align="center">
-   <a href="https://portfolio-canh-phong.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white" /></a>
+  <a href="https://portfolio-canh-phong.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white" /></a>
   <a href="mailto:nguyencanhphong246@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
   <a href="https://github.com/pogonguyen03"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" /></a>
   <img src="https://komarev.com/ghpvc/?username=pogonguyen03&label=Profile%20Views&color=blueviolet&style=for-the-badge" alt="Profile Views" />
@@ -15,7 +15,7 @@
 
 ---
 
-@@ -22,40 +19,39 @@
+## 🎯 About Me
 
 <table>
 <tr>
@@ -34,7 +34,6 @@ Hey there! I'm **Phong** - a passionate Full Stack Developer from **Vietnam** �
 
 - 🎨 Building **scalable web applications** with modern tech stacks
 - 📊 **Business Analysis** & translating requirements into technical solutions
-
 - ⚡ **Performance optimization** for high-traffic systems
 - 🤖 Creating **automation tools** to boost team productivity
 - 🛠️ Designing robust **system architectures**
@@ -46,18 +45,36 @@ Hey there! I'm **Phong** - a passionate Full Stack Developer from **Vietnam** �
 
 ### 🎯 Impact Delivered
 
-| Metric            | Achievement       |
-| ----------------- | ----------------- |
-| 📈 **Traffic**    | 1M+ visits/year   |
-| 🌐 **Domains**    | 1,000+ maintained |
-| 🚀 **Uptime**     | 99.9% reliability |
-| ⏱️ **Efficiency** | 40% time saved    |
-| 🔄 **Accuracy**   | Zero errors       |
+<table width="100%">
+<tr>
+<th>Metric</th>
+<th>Achievement</th>
+</tr>
+<tr>
+<td>📈 <strong>Traffic</strong></td>
+<td>1M+ visits/year</td>
+</tr>
+<tr>
+<td>🌐 <strong>Domains</strong></td>
+<td>1,000+ maintained</td>
+</tr>
+<tr>
+<td>🚀 <strong>Uptime</strong></td>
+<td>99.9% reliability</td>
+</tr>
+<tr>
+<td>⏱️ <strong>Efficiency</strong></td>
+<td>40% time saved</td>
+</tr>
+<tr>
+<td>🔄 <strong>Accuracy</strong></td>
+<td>Zero errors</td>
+</tr>
+</table>
 
 </td>
 </tr>
-
-@@ -63,35 +59,50 @@ Hey there! I'm **Phong** - a passionate Full Stack Developer from **Vietnam**
+</table>
 
 ---
 
@@ -77,7 +94,6 @@ Hey there! I'm **Phong** - a passionate Full Stack Developer from **Vietnam** �
 **What I'm Building**
 
 Scalable web solutions & system optimization
-
 </td>
 <td width="25%" align="center">
 <img src="https://img.icons8.com/fluency/96/000000/learning.png" width="64"/>
@@ -85,7 +101,6 @@ Scalable web solutions & system optimization
 **What I'm Learning**
 
 Advanced System Design, Cloud Architecture, AI/ML Integration
-
 </td>
 <td width="25%" align="center">
 <img src="https://img.icons8.com/fluency/96/000000/heart-with-pulse.png" width="64"/>
@@ -93,7 +108,6 @@ Advanced System Design, Cloud Architecture, AI/ML Integration
 **What I Love**
 
 Clean Code, Performance Tuning, Problem Solving
-
 </td>
 <td width="25%" align="center">
 <img src="https://img.icons8.com/fluency/96/000000/user-location.png" width="64"/>
@@ -101,7 +115,6 @@ Clean Code, Performance Tuning, Problem Solving
 **Where I Am**
 
 Ho Chi Minh City, Vietnam 🇻🇳
-
 </td>
 </tr>
 </table>
@@ -113,7 +126,11 @@ Ho Chi Minh City, Vietnam 🇻🇳
 [![](https://img.shields.io/badge/Available_for-Opportunities-success?style=for-the-badge&logo=handshake&logoColor=white)](mailto:nguyencanhphong246@gmail.com)
 [![](https://img.shields.io/badge/Open_to-Collaboration-blue?style=for-the-badge&logo=github&logoColor=white)](https://github.com/pogonguyen03)
 
-@@ -104,41 +115,53 @@ phong.sayHi();
+</div>
+
+---
+
+## 🛠️ Tech Arsenal
 
 <div align="center">
 
@@ -149,7 +166,6 @@ Ho Chi Minh City, Vietnam 🇻🇳
 <p>
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
   <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
-
   <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
   <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" />
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
@@ -168,10 +184,11 @@ Ho Chi Minh City, Vietnam 🇻🇳
 
 <p>
   <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" />
-
-@@ -149,21 +172,24 @@ phong.sayHi();
-<img src="https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white" />
-
+  <img src="https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white" />
+  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
+  <img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white" />
+  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" />
+  <img src="https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white" />
 </p>
 
 ### Mobile Development
@@ -189,15 +206,21 @@ Ho Chi Minh City, Vietnam 🇻🇳
   <img src="https://img.shields.io/badge/Adobe_Photoshop-31A8FF?style=for-the-badge&logo=adobe-photoshop&logoColor=white" />
   <img src="https://img.shields.io/badge/Adobe_Illustrator-FF9A00?style=for-the-badge&logo=adobe-illustrator&logoColor=white" />
   <img src="https://img.shields.io/badge/Balsamiq-A60000?style=for-the-badge&logo=balsamiq&logoColor=white" />
-
 </p>
 
 ### Development Tools
 
 <p>
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitLab-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white" />
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
+  <img src="https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white" />
+  <img src="https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white" />
+</p>
 
-@@ -179,31 +205,44 @@ phong.sayHi();
+</div>
+
+---
 
 ## 💼 Professional Journey
 
@@ -207,10 +230,9 @@ Ho Chi Minh City, Vietnam 🇻🇳
 
 ### 🚀 THIEN CO TRI LIEN CO., LTD
 
-**Full Stack Developer** · _Dec 2024 - Present_
+**Full Stack Developer** · *Dec 2024 - Present*
 
 #### Key Achievements:
-
 - ✅ Managed **1,000+ domains** with **1M+ annual visits**
 - ⚡ Built Python/PHP automation (**40% time reduction**)
 - 🎯 Maintained **99.9% uptime** for high-traffic systems
@@ -218,7 +240,6 @@ Ho Chi Minh City, Vietnam 🇻🇳
 - 🤖 Eliminated manual entry errors through automation
 
 #### Technologies:
-
 `Python` `PHP` `WordPress` `MySQL` `Automation`
 
 </td>
@@ -226,10 +247,9 @@ Ho Chi Minh City, Vietnam 🇻🇳
 
 ### 💻 BIT GROUP INVESTMENT JSC
 
-**Web Developer** · _Aug 2024 - Nov 2024_
+**Web Developer** · *Aug 2024 - Nov 2024*
 
 #### Key Achievements:
-
 - 🎨 Designed & developed corporate websites
 - 🔨 Created custom WordPress themes from scratch
 - ⚡ Enhanced UI/UX and performance optimization
@@ -237,7 +257,6 @@ Ho Chi Minh City, Vietnam 🇻🇳
 - 📈 Improved site loading speed by 35%
 
 #### Technologies:
-
 `WordPress` `PHP` `JavaScript` `CSS3` `MySQL`
 
 </td>
@@ -246,7 +265,9 @@ Ho Chi Minh City, Vietnam 🇻🇳
 
 ---
 
-@@ -213,40 +252,56 @@ phong.sayHi();
+## 🌟 Featured Projects
+
+<div align="center">
 
 <table>
 <tr>
@@ -259,7 +280,6 @@ Ho Chi Minh City, Vietnam 🇻🇳
 **Full Stack Developer & System Architect**
 
 #### 🎯 Features:
-
 - Personalized wedding invitations with unique guest links
 - Automated QR code generation for easy access
 - Real-time RSVP dashboard using WebSockets
@@ -267,7 +287,6 @@ Ho Chi Minh City, Vietnam 🇻🇳
 - Efficient event management with scalable architecture
 
 #### 🛠️ Tech Stack:
-
 <p>
   <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" />
   <img src="https://img.shields.io/badge/Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white" />
@@ -287,7 +306,6 @@ Ho Chi Minh City, Vietnam 🇻🇳
 **Game Developer**
 
 #### 🎯 Features:
-
 - Custom game engine built from scratch
 - Advanced OOP design patterns
 - Optimized collision detection system
@@ -296,7 +314,6 @@ Ho Chi Minh City, Vietnam 🇻🇳
 - Modular architecture for easy expansion
 
 #### 🛠️ Tech Stack:
-
 <p>
   <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" />
   <img src="https://img.shields.io/badge/OOP-239120?style=flat-square&logo=java&logoColor=white" />
@@ -307,8 +324,15 @@ Ho Chi Minh City, Vietnam 🇻🇳
 
 </td>
 </tr>
+</table>
 
-@@ -263,7 +318,7 @@ phong.sayHi();
+</div>
+
+---
+
+## 📊 GitHub Analytics
+
+<div align="center">
 
 <table>
 <tr>
@@ -317,9 +341,11 @@ Ho Chi Minh City, Vietnam 🇻🇳
 <img src="https://github-readme-stats.vercel.app/api?username=pogonguyen03&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117" width="100%" />
 
 </td>
+<td width="50%">
 
-@@ -275,28 +330,60 @@ phong.sayHi();
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pogonguyen03&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0D1117" width="100%" />
 
+</td>
 </tr>
 </table>
 
@@ -341,25 +367,19 @@ Ho Chi Minh City, Vietnam 🇻🇳
 <img src="https://img.icons8.com/fluency/96/000000/traffic.png" width="64" />
 
 ### 📈 1M+
-
 **Annual Traffic Managed**
-
 </td>
 <td align="center" width="33%">
 <img src="https://img.icons8.com/fluency/96/000000/domain.png" width="64" />
 
 ### 🌐 1,000+
-
 **Domains Maintained**
-
 </td>
 <td align="center" width="33%">
 <img src="https://img.icons8.com/fluency/96/000000/server.png" width="64" />
 
 ### 🚀 99.9%
-
 **System Uptime**
-
 </td>
 </tr>
 <tr>
@@ -367,32 +387,28 @@ Ho Chi Minh City, Vietnam 🇻🇳
 <img src="https://img.icons8.com/fluency/96/000000/speedometer.png" width="64" />
 
 ### ⏱️ 40%
-
 **Time Reduction via Automation**
-
 </td>
 <td align="center" width="33%">
 <img src="https://img.icons8.com/fluency/96/000000/work.png" width="64" />
 
 ### 💼 1+
-
 **Years of Experience**
-
 </td>
 <td align="center" width="33%">
 <img src="https://img.icons8.com/fluency/96/000000/graduation-cap.png" width="64" />
 
 ### 🎓 3.27/4.0
-
 **University GPA**
-
 </td>
 </tr>
 </table>
 
 </div>
 
-@@ -306,59 +393,62 @@ phong.sayHi();
+---
+
+## 🎓 Education & Certifications
 
 <div align="center">
 
@@ -402,7 +418,6 @@ Ho Chi Minh City, Vietnam 🇻🇳
 <img src="https://img.icons8.com/fluency/96/000000/university.png" width="80" />
 
 ### 🏛️ HUFLIT University
-
 **Bachelor of Software Engineering**
 
 📅 2021 - 2025 | 📊 GPA: 3.27/4.0
@@ -412,7 +427,6 @@ Ho Chi Minh City, Vietnam 🇻🇳
 <img src="https://img.icons8.com/fluency/96/000000/language.png" width="80" />
 
 ### 🌐 English Proficiency
-
 **TOEIC Certification**
 
 🎯 Score: 570
@@ -435,38 +449,30 @@ Ho Chi Minh City, Vietnam 🇻🇳
 <img src="https://img.icons8.com/fluency/96/000000/web.png" width="64" />
 
 ### Full Stack Development
-
 React, Next.js, Node.js, .NET, Database Design, API Development
-
 </td>
 <td width="25%" align="center">
 <img src="https://img.icons8.com/fluency/96/000000/business.png" width="64" />
 
 ### Business Analysis
-
 Requirements Gathering, System Design, Stakeholder Management
-
 </td>
 <td width="25%" align="center">
 <img src="https://img.icons8.com/fluency/96/000000/rocket.png" width="64" />
 
 ### Performance Optimization
-
 SEO Strategies, Server Management, Code Efficiency, Automation
-
 </td>
 <td width="25%" align="center">
 <img src="https://img.icons8.com/fluency/96/000000/collaboration.png" width="64" />
 
 ### Soft Skills
-
 Problem Solving, Team Collaboration, Adaptability, Communication
-
 </td>
 </tr>
 </table>
 
-@@ -367,53 +457,45 @@ Communication
+</div>
 
 ---
 
@@ -480,41 +486,38 @@ Problem Solving, Team Collaboration, Adaptability, Communication
 <img src="https://img.icons8.com/fluency/96/000000/portfolio.png" width="64" />
 
 ### 🌐 Portfolio
-
 [Visit My Work](https://portfolio-canh-phong.vercel.app/)
-
 </td>
 <td align="center" width="33%">
 <img src="https://img.icons8.com/fluency/96/000000/email.png" width="64" />
 
 ### 📧 Email
-
 [nguyencanhphong246@gmail.com](mailto:nguyencanhphong246@gmail.com)
-
 </td>
 <td align="center" width="33%">
 <img src="https://img.icons8.com/fluency/96/000000/github.png" width="64" />
 
 ### 💻 GitHub
-
 [Follow Me](https://github.com/pogonguyen03)
-
 </td>
 </tr>
 </table>
 
 ---
 
-📍 **Location:** District 7, Ho Chi Minh City, Vietnam
-
+📍 **Location:** District 7, Ho Chi Minh City, Vietnam  
 📱 **Phone:** +84 774 651 178
 
 ---
 
-### 💭 _"Code is like humor. When you have to explain it, it's bad."_ – Cory House
+### 💭 *"Code is like humor. When you have to explain it, it's bad."* – Cory House
 
 ---
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" width="100%" />
 
 ⭐️ **If you find my work interesting, consider giving a star!** ⭐️
+
+*Last Updated: December 2024*
+
+</div>
