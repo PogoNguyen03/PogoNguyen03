@@ -284,7 +284,7 @@ Ho Chi Minh City, Vietnam 🇻🇳
   <img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
 </p>
 
-[🔗 View Live Demo](https://wedding-demo.vercel.app)
+[🔗 View Live Demo](https://wedding-invite-peach.vercel.app/invite/nguyen-van-a)
 
 </td>
 <td width="50%" valign="top">
