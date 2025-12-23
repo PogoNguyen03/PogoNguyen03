@@ -41,36 +41,17 @@ Hey there! I'm **Phong** - a passionate Full Stack Developer from **Vietnam** �
 </td>
 <td width="40%" valign="top">
 
-<img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="100%" alt="Coding Animation" />
+<img src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" width="100%" alt="Coding Animation" />
 
 ### 🎯 Impact Delivered
 
-<table width="100%">
-<tr>
-<th>Metric</th>
-<th>Achievement</th>
-</tr>
-<tr>
-<td>📈 <strong>Traffic</strong></td>
-<td>1M+ visits/year</td>
-</tr>
-<tr>
-<td>🌐 <strong>Domains</strong></td>
-<td>1,000+ maintained</td>
-</tr>
-<tr>
-<td>🚀 <strong>Uptime</strong></td>
-<td>99.9% reliability</td>
-</tr>
-<tr>
-<td>⏱️ <strong>Efficiency</strong></td>
-<td>40% time saved</td>
-</tr>
-<tr>
-<td>🔄 <strong>Accuracy</strong></td>
-<td>Zero errors</td>
-</tr>
-</table>
+| Metric | Achievement |
+|--------|-------------|
+| 📈 **Traffic** | 1M+ visits/year |
+| 🌐 **Domains** | 1,000+ maintained |
+| 🚀 **Uptime** | 99.9% reliability |
+| ⏱️ **Efficiency** | 40% time saved |
+| 🔄 **Accuracy** | Zero errors |
 
 </td>
 </tr>
@@ -89,28 +70,28 @@ Hey there! I'm **Phong** - a passionate Full Stack Developer from **Vietnam** �
 <table>
 <tr>
 <td width="25%" align="center">
-<img src="https://img.icons8.com/fluency/96/000000/code.png" width="64"/>
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Laptop.png" width="64"/>
 
 **What I'm Building**
 
 Scalable web solutions & system optimization
 </td>
 <td width="25%" align="center">
-<img src="https://img.icons8.com/fluency/96/000000/learning.png" width="64"/>
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Books.png" width="64"/>
 
 **What I'm Learning**
 
 Advanced System Design, Cloud Architecture, AI/ML Integration
 </td>
 <td width="25%" align="center">
-<img src="https://img.icons8.com/fluency/96/000000/heart-with-pulse.png" width="64"/>
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Red%20Heart.png" width="64"/>
 
 **What I Love**
 
 Clean Code, Performance Tuning, Problem Solving
 </td>
 <td width="25%" align="center">
-<img src="https://img.icons8.com/fluency/96/000000/user-location.png" width="64"/>
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Globe%20Showing%20Asia-Australia.png" width="64"/>
 
 **Where I Am**
 
@@ -139,23 +120,23 @@ Ho Chi Minh City, Vietnam 🇻🇳
 <table>
 <tr>
 <td align="center" width="20%">
-<img src="https://img.icons8.com/color/96/000000/java-coffee-cup-logo.png" width="48"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="48"/>
 <br><strong>Java</strong>
 </td>
 <td align="center" width="20%">
-<img src="https://img.icons8.com/color/96/000000/c-sharp-logo.png" width="48"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="48"/>
 <br><strong>C#</strong>
 </td>
 <td align="center" width="20%">
-<img src="https://img.icons8.com/officel/96/000000/php-logo.png" width="48"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="48"/>
 <br><strong>PHP</strong>
 </td>
 <td align="center" width="20%">
-<img src="https://img.icons8.com/color/96/000000/python.png" width="48"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="48"/>
 <br><strong>Python</strong>
 </td>
 <td align="center" width="20%">
-<img src="https://img.icons8.com/color/96/000000/javascript.png" width="48"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="48"/>
 <br><strong>JavaScript</strong>
 </td>
 </tr>
@@ -205,7 +186,6 @@ Ho Chi Minh City, Vietnam 🇻🇳
   <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
   <img src="https://img.shields.io/badge/Adobe_Photoshop-31A8FF?style=for-the-badge&logo=adobe-photoshop&logoColor=white" />
   <img src="https://img.shields.io/badge/Adobe_Illustrator-FF9A00?style=for-the-badge&logo=adobe-illustrator&logoColor=white" />
-  <img src="https://img.shields.io/badge/Balsamiq-A60000?style=for-the-badge&logo=balsamiq&logoColor=white" />
 </p>
 
 ### Development Tools
@@ -275,7 +255,7 @@ Ho Chi Minh City, Vietnam 🇻🇳
 
 ### 💍 Digital Wedding Invitation Platform
 
-<img src="https://img.icons8.com/fluency/96/000000/wedding-rings.png" width="64" />
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Party%20Popper.png" width="64" />
 
 **Full Stack Developer & System Architect**
 
@@ -301,7 +281,7 @@ Ho Chi Minh City, Vietnam 🇻🇳
 
 ### 🎮 2D RPG Game Engine
 
-<img src="https://img.icons8.com/fluency/96/000000/controller.png" width="64" />
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Video%20Game.png" width="64" />
 
 **Game Developer**
 
@@ -364,19 +344,19 @@ Ho Chi Minh City, Vietnam 🇻🇳
 <table>
 <tr>
 <td align="center" width="33%">
-<img src="https://img.icons8.com/fluency/96/000000/traffic.png" width="64" />
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Chart%20Increasing.png" width="64" />
 
 ### 📈 1M+
 **Annual Traffic Managed**
 </td>
 <td align="center" width="33%">
-<img src="https://img.icons8.com/fluency/96/000000/domain.png" width="64" />
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Globe%20with%20Meridians.png" width="64" />
 
 ### 🌐 1,000+
 **Domains Maintained**
 </td>
 <td align="center" width="33%">
-<img src="https://img.icons8.com/fluency/96/000000/server.png" width="64" />
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" width="64" />
 
 ### 🚀 99.9%
 **System Uptime**
@@ -384,19 +364,19 @@ Ho Chi Minh City, Vietnam 🇻🇳
 </tr>
 <tr>
 <td align="center" width="33%">
-<img src="https://img.icons8.com/fluency/96/000000/speedometer.png" width="64" />
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/High%20Speed%20Train.png" width="64" />
 
 ### ⏱️ 40%
 **Time Reduction via Automation**
 </td>
 <td align="center" width="33%">
-<img src="https://img.icons8.com/fluency/96/000000/work.png" width="64" />
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Briefcase.png" width="64" />
 
 ### 💼 1+
 **Years of Experience**
 </td>
 <td align="center" width="33%">
-<img src="https://img.icons8.com/fluency/96/000000/graduation-cap.png" width="64" />
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Graduation%20Cap.png" width="64" />
 
 ### 🎓 3.27/4.0
 **University GPA**
@@ -415,7 +395,7 @@ Ho Chi Minh City, Vietnam 🇻🇳
 <table>
 <tr>
 <td align="center" width="50%">
-<img src="https://img.icons8.com/fluency/96/000000/university.png" width="80" />
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Classical%20Building.png" width="80" />
 
 ### 🏛️ HUFLIT University
 **Bachelor of Software Engineering**
@@ -424,7 +404,7 @@ Ho Chi Minh City, Vietnam 🇻🇳
 
 </td>
 <td align="center" width="50%">
-<img src="https://img.icons8.com/fluency/96/000000/language.png" width="80" />
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Closed%20Book.png" width="80" />
 
 ### 🌐 English Proficiency
 **TOEIC Certification**
@@ -446,25 +426,25 @@ Ho Chi Minh City, Vietnam 🇻🇳
 <table>
 <tr>
 <td width="25%" align="center">
-<img src="https://img.icons8.com/fluency/96/000000/web.png" width="64" />
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Desktop%20Computer.png" width="64" />
 
 ### Full Stack Development
 React, Next.js, Node.js, .NET, Database Design, API Development
 </td>
 <td width="25%" align="center">
-<img src="https://img.icons8.com/fluency/96/000000/business.png" width="64" />
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Bar%20Chart.png" width="64" />
 
 ### Business Analysis
 Requirements Gathering, System Design, Stakeholder Management
 </td>
 <td width="25%" align="center">
-<img src="https://img.icons8.com/fluency/96/000000/rocket.png" width="64" />
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/High%20Voltage.png" width="64" />
 
 ### Performance Optimization
 SEO Strategies, Server Management, Code Efficiency, Automation
 </td>
 <td width="25%" align="center">
-<img src="https://img.icons8.com/fluency/96/000000/collaboration.png" width="64" />
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Handshake.png" width="64" />
 
 ### Soft Skills
 Problem Solving, Team Collaboration, Adaptability, Communication
@@ -483,19 +463,19 @@ Problem Solving, Team Collaboration, Adaptability, Communication
 <table>
 <tr>
 <td align="center" width="33%">
-<img src="https://img.icons8.com/fluency/96/000000/portfolio.png" width="64" />
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Briefcase.png" width="64" />
 
 ### 🌐 Portfolio
 [Visit My Work](https://portfolio-canh-phong.vercel.app/)
 </td>
 <td align="center" width="33%">
-<img src="https://img.icons8.com/fluency/96/000000/email.png" width="64" />
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Envelope.png" width="64" />
 
 ### 📧 Email
 [nguyencanhphong246@gmail.com](mailto:nguyencanhphong246@gmail.com)
 </td>
 <td align="center" width="33%">
-<img src="https://img.icons8.com/fluency/96/000000/github.png" width="64" />
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Laptop.png" width="64" />
 
 ### 💻 GitHub
 [Follow Me](https://github.com/pogonguyen03)
