@@ -341,7 +341,7 @@ Ho Chi Minh City, Vietnam 🇻🇳
 </tr>
 </table>
 
-<img src="https://streak-stats.demolab.com/?user=pogonguyen03&theme=tokyonight&hide_border=true&background=0D1117" width="100%" alt="GitHub Streak" />
+<img src="https://streak-stats.demolab.com/?user=pogonguyen03&theme=tokyonight&hide_border=true&ring=A855F7&fire=A855F7&currStreakLabel=A855F7" width="100%" alt="GitHub Streak" />
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=pogonguyen03&theme=tokyo-night&hide_border=true&bg_color=0D1117" width="100%" alt="Contribution Graph" />
 
