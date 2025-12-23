@@ -39,19 +39,19 @@ Hey there! I'm **Phong** - a passionate Full Stack Developer from **Vietnam** �
 - 🛠️ Designing robust **system architectures**
 
 </td>
-<td width="40%" valign="top">
+<td width="40%" valign="top" align="center">
 
 <img src="https://cdna.artstation.com/p/assets/images/images/028/102/058/original/pixel-jeff-matrix-s.gif" width="100%" alt="Coding Animation" />
 
 ### 🎯 Impact Delivered
 
-| Metric | Achievement |
-|--------|-------------|
-| 📈 **Traffic** | 1M+ visits/year |
-| 🌐 **Domains** | 1,000+ maintained |
-| 🚀 **Uptime** | 99.9% reliability |
-| ⏱️ **Efficiency** | 40% time saved |
-| 🔄 **Accuracy** | Zero errors |
+| Metric            | Achievement       |
+| ----------------- | ----------------- |
+| 📈 **Traffic**    | 1M+ visits/year   |
+| 🌐 **Domains**    | 1,000+ maintained |
+| 🚀 **Uptime**     | 99.9% reliability |
+| ⏱️ **Efficiency** | 40% time saved    |
+| 🔄 **Accuracy**   | Zero errors       |
 
 </td>
 </tr>
@@ -75,6 +75,7 @@ Hey there! I'm **Phong** - a passionate Full Stack Developer from **Vietnam** �
 **What I'm Building**
 
 Scalable web solutions & system optimization
+
 </td>
 <td width="25%" align="center">
 <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Books.png" width="64"/>
@@ -82,6 +83,7 @@ Scalable web solutions & system optimization
 **What I'm Learning**
 
 Advanced System Design, Cloud Architecture, AI/ML Integration
+
 </td>
 <td width="25%" align="center">
 <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Red%20Heart.png" width="64"/>
@@ -89,6 +91,7 @@ Advanced System Design, Cloud Architecture, AI/ML Integration
 **What I Love**
 
 Clean Code, Performance Tuning, Problem Solving
+
 </td>
 <td width="25%" align="center">
 <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Globe%20Showing%20Asia-Australia.png" width="64"/>
@@ -96,6 +99,7 @@ Clean Code, Performance Tuning, Problem Solving
 **Where I Am**
 
 Ho Chi Minh City, Vietnam 🇻🇳
+
 </td>
 </tr>
 </table>
@@ -203,16 +207,17 @@ Ho Chi Minh City, Vietnam 🇻🇳
 ---
 
 ## 💼 Professional Journey
-
+<div align="center">
 <table>
 <tr>
 <td width="50%" valign="top">
 
 ### 🚀 THIEN CO TRI LIEN CO., LTD
 
-**Full Stack Developer** · *Dec 2024 - Present*
+**Full Stack Developer** · _Dec 2024 - Present_
 
 #### Key Achievements:
+
 - ✅ Managed **1,000+ domains** with **1M+ annual visits**
 - ⚡ Built Python/PHP automation (**40% time reduction**)
 - 🎯 Maintained **99.9% uptime** for high-traffic systems
@@ -220,6 +225,7 @@ Ho Chi Minh City, Vietnam 🇻🇳
 - 🤖 Eliminated manual entry errors through automation
 
 #### Technologies:
+
 `Python` `PHP` `WordPress` `MySQL` `Automation`
 
 </td>
@@ -227,9 +233,10 @@ Ho Chi Minh City, Vietnam 🇻🇳
 
 ### 💻 BIT GROUP INVESTMENT JSC
 
-**Web Developer** · *Aug 2024 - Nov 2024*
+**Web Developer** · _Aug 2024 - Nov 2024_
 
 #### Key Achievements:
+
 - 🎨 Designed & developed corporate websites
 - 🔨 Created custom WordPress themes from scratch
 - ⚡ Enhanced UI/UX and performance optimization
@@ -237,12 +244,13 @@ Ho Chi Minh City, Vietnam 🇻🇳
 - 📈 Improved site loading speed by 35%
 
 #### Technologies:
+
 `WordPress` `PHP` `JavaScript` `CSS3` `MySQL`
 
 </td>
 </tr>
 </table>
-
+</div>
 ---
 
 ## 🌟 Featured Projects
@@ -260,6 +268,7 @@ Ho Chi Minh City, Vietnam 🇻🇳
 **Full Stack Developer & System Architect**
 
 #### 🎯 Features:
+
 - Personalized wedding invitations with unique guest links
 - Automated QR code generation for easy access
 - Real-time RSVP dashboard using WebSockets
@@ -267,6 +276,7 @@ Ho Chi Minh City, Vietnam 🇻🇳
 - Efficient event management with scalable architecture
 
 #### 🛠️ Tech Stack:
+
 <p>
   <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" />
   <img src="https://img.shields.io/badge/Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white" />
@@ -286,6 +296,7 @@ Ho Chi Minh City, Vietnam 🇻🇳
 **Game Developer**
 
 #### 🎯 Features:
+
 - Custom game engine built from scratch
 - Advanced OOP design patterns
 - Optimized collision detection system
@@ -294,6 +305,7 @@ Ho Chi Minh City, Vietnam 🇻🇳
 - Modular architecture for easy expansion
 
 #### 🛠️ Tech Stack:
+
 <p>
   <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" />
   <img src="https://img.shields.io/badge/OOP-239120?style=flat-square&logo=java&logoColor=white" />
@@ -347,19 +359,25 @@ Ho Chi Minh City, Vietnam 🇻🇳
 <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Chart%20Increasing.png" width="64" />
 
 ### 📈 1M+
+
 **Annual Traffic Managed**
+
 </td>
 <td align="center" width="33%">
 <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Globe%20with%20Meridians.png" width="64" />
 
 ### 🌐 1,000+
+
 **Domains Maintained**
+
 </td>
 <td align="center" width="33%">
 <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" width="64" />
 
 ### 🚀 99.9%
+
 **System Uptime**
+
 </td>
 </tr>
 <tr>
@@ -367,19 +385,25 @@ Ho Chi Minh City, Vietnam 🇻🇳
 <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/High%20Speed%20Train.png" width="64" />
 
 ### ⏱️ 40%
+
 **Time Reduction via Automation**
+
 </td>
 <td align="center" width="33%">
 <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Briefcase.png" width="64" />
 
 ### 💼 1+
+
 **Years of Experience**
+
 </td>
 <td align="center" width="33%">
 <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Graduation%20Cap.png" width="64" />
 
 ### 🎓 3.27/4.0
+
 **University GPA**
+
 </td>
 </tr>
 </table>
@@ -398,6 +422,7 @@ Ho Chi Minh City, Vietnam 🇻🇳
 <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Classical%20Building.png" width="80" />
 
 ### 🏛️ HUFLIT University
+
 **Bachelor of Software Engineering**
 
 📅 2021 - 2025 | 📊 GPA: 3.27/4.0
@@ -407,6 +432,7 @@ Ho Chi Minh City, Vietnam 🇻🇳
 <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Closed%20Book.png" width="80" />
 
 ### 🌐 English Proficiency
+
 **TOEIC Certification**
 
 🎯 Score: 570
@@ -429,25 +455,33 @@ Ho Chi Minh City, Vietnam 🇻🇳
 <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Desktop%20Computer.png" width="64" />
 
 ### Full Stack Development
+
 React, Next.js, Node.js, .NET, Database Design, API Development
+
 </td>
 <td width="25%" align="center">
 <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Bar%20Chart.png" width="64" />
 
 ### Business Analysis
+
 Requirements Gathering, System Design, Stakeholder Management
+
 </td>
 <td width="25%" align="center">
 <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/High%20Voltage.png" width="64" />
 
 ### Performance Optimization
+
 SEO Strategies, Server Management, Code Efficiency, Automation
+
 </td>
 <td width="25%" align="center">
 <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Handshake.png" width="64" />
 
 ### Soft Skills
+
 Problem Solving, Team Collaboration, Adaptability, Communication
+
 </td>
 </tr>
 </table>
@@ -466,19 +500,25 @@ Problem Solving, Team Collaboration, Adaptability, Communication
 <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Briefcase.png" width="64" />
 
 ### 🌐 Portfolio
+
 [Visit My Work](https://portfolio-canh-phong.vercel.app/)
+
 </td>
 <td align="center" width="33%">
 <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Envelope.png" width="64" />
 
 ### 📧 Email
+
 [nguyencanhphong246@gmail.com](mailto:nguyencanhphong246@gmail.com)
+
 </td>
 <td align="center" width="33%">
 <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Laptop.png" width="64" />
 
 ### 💻 GitHub
+
 [Follow Me](https://github.com/pogonguyen03)
+
 </td>
 </tr>
 </table>
@@ -490,7 +530,7 @@ Problem Solving, Team Collaboration, Adaptability, Communication
 
 ---
 
-### 💭 *"Code is like humor. When you have to explain it, it's bad."* – Cory House
+### 💭 _"Code is like humor. When you have to explain it, it's bad."_ – Cory House
 
 ---
 
@@ -498,6 +538,6 @@ Problem Solving, Team Collaboration, Adaptability, Communication
 
 ⭐️ **If you find my work interesting, consider giving a star!** ⭐️
 
-*Last Updated: December 2024*
+_Last Updated: December 2024_
 
 </div>
